@@ -34,8 +34,7 @@ public class U1L04GuessingGame {
 					JOptionPane.showMessageDialog(null,"Please pick a number between 1 and 100");
 					}
 		}while (num != computerNum || num == -1);
-		
-		
+			
 		if (num == 0) {
 		
 		// number attempts after giving up
