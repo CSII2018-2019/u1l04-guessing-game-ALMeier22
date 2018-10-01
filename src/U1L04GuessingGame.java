@@ -22,11 +22,11 @@ public class U1L04GuessingGame {
 				
 				// too high
 				if (num > computerNum) {
-					JOptionPane.showMessageDialog(null,"Too High !!");
+					JOptionPane.showMessageDialog(null,"Too High!!");
 					}
 				// too low 
 				else if (num < computerNum) {
-					JOptionPane.showMessageDialog(null,"Too Low !!");
+					JOptionPane.showMessageDialog(null,"Too Low!!");
 					}
 				}
 				//if user goes out of the 1-100  
